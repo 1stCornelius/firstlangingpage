@@ -29,7 +29,6 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* align-content: center; */
     align-items: center;
 }
 span{
@@ -41,7 +40,6 @@ span{
 }
 .right{
     background-image: url("images/Cornelius.jpg");
-    /* padding: 20px; */
     background-repeat: no-repeat;
     background-size:cover;
     width:300px;
