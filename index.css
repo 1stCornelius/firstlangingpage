@@ -13,13 +13,13 @@ body{
    width: 550px;
    justify-content: center;
    padding-left: 400px;
-   border-radius: ;
+   /* border-radius: ; */
    box-shadow: 1px,1px,20px 2opx rgba(26, 1, 1, 0.4);
 }
 .left{
 
     /* color:black; */
-    padding:0 px;
+    padding:0px;
     background-image: url("images/star.jpg");
     background-repeat: no-repeat;
     background-size:cover;
